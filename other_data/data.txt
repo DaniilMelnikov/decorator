@@ -1,0 +1,21 @@
+date: 2021-12-02, time: 18:41:27, name function: __init__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8AF0>, [['a', 'b', 'c'], ['d', 'e', 'f'], [1, [1, 3, 54], None]]), return: None
+date: 2021-12-02, time: 18:41:27, name function: __iter__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8AF0>,), return: <__main__.FlatIterator object at 0x000001AC5E9C8AF0>
+date: 2021-12-02, time: 18:41:27, name function: __init__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8A60>, ['a', 'b', 'c']), return: None
+date: 2021-12-02, time: 18:41:27, name function: __iter__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8A60>,), return: <__main__.FlatIterator object at 0x000001AC5E9C8A60>
+date: 2021-12-02, time: 18:41:27, name function: __next__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8A60>,), return: a
+date: 2021-12-02, time: 18:41:27, name function: __next__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8A60>,), return: b
+date: 2021-12-02, time: 18:41:27, name function: __next__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8A60>,), return: c
+date: 2021-12-02, time: 18:41:27, name function: __init__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8A60>, ['d', 'e', 'f']), return: None
+date: 2021-12-02, time: 18:41:27, name function: __iter__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8A60>,), return: <__main__.FlatIterator object at 0x000001AC5E9C8A60>
+date: 2021-12-02, time: 18:41:27, name function: __next__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8A60>,), return: d
+date: 2021-12-02, time: 18:41:27, name function: __next__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8A60>,), return: e
+date: 2021-12-02, time: 18:41:27, name function: __next__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8A60>,), return: f
+date: 2021-12-02, time: 18:41:27, name function: __init__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8A60>, [1, [1, 3, 54], None]), return: None
+date: 2021-12-02, time: 18:41:27, name function: __iter__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8A60>,), return: <__main__.FlatIterator object at 0x000001AC5E9C8A60>
+date: 2021-12-02, time: 18:41:27, name function: __next__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8A60>,), return: 1
+date: 2021-12-02, time: 18:41:27, name function: __init__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C89D0>, [1, 3, 54]), return: None
+date: 2021-12-02, time: 18:41:27, name function: __iter__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C89D0>,), return: <__main__.FlatIterator object at 0x000001AC5E9C89D0>
+date: 2021-12-02, time: 18:41:27, name function: __next__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C89D0>,), return: 1
+date: 2021-12-02, time: 18:41:27, name function: __next__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C89D0>,), return: 3
+date: 2021-12-02, time: 18:41:27, name function: __next__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C89D0>,), return: 54
+date: 2021-12-02, time: 18:41:27, name function: __next__, arguments: (<__main__.FlatIterator object at 0x000001AC5E9C8A60>,), return: None
